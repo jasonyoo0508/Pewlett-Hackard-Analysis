@@ -15,6 +15,9 @@ Below is the relational database diagram from the module
 # Summary
 
 Altogether, there are overall of 90,398 people with different titles, and altogether, there are approximately 57,669 'senior' title positions in the company. overall, there are 57,669 'senior' positions, whereas other positions are staff , engineer.. as engineers etc, and managers. For retirement,we can consider the senior members and the manager as other positions would not be considering retirement.
+<img width="240" alt="COUNTS SS" src="https://user-images.githubusercontent.com/89154507/135734027-4f000cb8-0295-4ee0-990c-69bfd6ca3f8f.png">
+
+
 
 # Mentorship program
 
